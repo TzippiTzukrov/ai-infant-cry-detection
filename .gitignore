@@ -5,7 +5,8 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 frontend/node_modules/
-
+.vscode/
+.kiro/
 # קבצי בדיקה זמניים
 test_cry.wav
 mic_test.wav
