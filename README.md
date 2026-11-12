@@ -148,7 +148,7 @@ ai-infant-cry-detection/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/<your-username>/ai-infant-cry-detection.git
+git clone https://github.com/TzippiTzukrov/ai-infant-cry-detection.git
 cd ai-infant-cry-detection
 
 pip install -r requirements.txt
